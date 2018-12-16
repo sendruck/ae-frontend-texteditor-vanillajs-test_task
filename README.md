@@ -1,6 +1,8 @@
 # Simple Text Editor
 
 ### In order to use application:
++ first run npm install
++ npm start
 + you can change word in the layout
 + you need to hover over the word so the editing panel will reveal
 + you can choose whatever control to apply, or choose similar word

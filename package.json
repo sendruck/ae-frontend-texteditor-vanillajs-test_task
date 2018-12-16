@@ -4,7 +4,7 @@
   "description": "Test task for Agile Engine. Basic text editor.",
   "main": "app.js",
   "scripts": {
-    "start": "http-static",
+    "start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
